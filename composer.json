@@ -1,11 +1,11 @@
 {
-    "name": "qlick/laravel-full-calendar",
-    "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
+    "name": "sailingbyte/laravel-full-calendar",
+    "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/nelkasovic/laravel-full-calendar",
     "authors": [
         {
-            "name": "Qlick by Nermin Elkasovic",
-            "email": "nermin@qlick.ch",
-            "homepage": "https://qlick.ch",
+            "name": "Sailingbyte",
+            "email": "developers@sailingbyte.com",
+            "homepage": "https://sailingbyte.com",
             "role": "Developer"
         }
     ],
@@ -16,13 +16,13 @@
         "laravel/helpers": "^1.0"
     },
     "license": "MIT",
-    "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
+    "homepage": "https://github.com/sailingbyte/laravel-full-calendar",
     "support": {
-        "email": "nermin@qlick.ch",
-        "issues": "https://github.com/nelkasovic/laravel-full-calendar/issues",
-        "wiki": "https://github.com/nelkasovic/laravel-full-calendar/wiki",
-        "source": "https://github.com/nelkasovic/laravel-full-calendar",
-        "docs": "https://github.com/nelkasovic/laravel-full-calendar"
+        "email": "developers@sailingbyte.com",
+        "issues": "https://github.com/sailingbyte/laravel-full-calendar/issues",
+        "wiki": "https://github.com/sailingbyte/laravel-full-calendar/wiki",
+        "source": "https://github.com/sailingbyte/laravel-full-calendar",
+        "docs": "https://github.com/sailingbyte/laravel-full-calendar"
     },
     "autoload": {
         "psr-4": {

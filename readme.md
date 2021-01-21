@@ -1,17 +1,17 @@
 # Laravel 6 Full Calendar Helper
 
-This is a fork of https://github.com/nelkasovic/laravel-full-calendar. A simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier. Because the package is abandoned I decided to fork and publish a version which should work with Laravel 6.
+This is a fork of https://github.com/nelkasovic/laravel-full-calendar. A simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier. We adjusted it to work on Laravel 8.
 
 ## Installing
 Require the package with composer using the following command:
 
-    composer require qlick/laravel-full-calendar
+    composer require sailingbyte/laravel-full-calendar
 
 Or add the following to your composer.json's require section and `composer update`
 
 ```json
 "require": {
-	"qlick/laravel-full-calendar": "~1.0"
+	"sailingbyte/laravel-full-calendar": "*"
 }
 ```
 
